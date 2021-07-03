@@ -37,7 +37,7 @@
 
 ## 使い方
 
-曲目ファイルをThbgmExtractor.exeと同じフォルダに入れてご使用ください。
+曲目ファイルは `TitleFiles`フォルダ(v1.6.7以降のみ)、または`ThbgmExtractor.exe`と同じフォルダに置いてください。
 
 ## ブログ
 
