@@ -1,0 +1,39 @@
+﻿#「東方虹龍洞　～ Unconnected Marketeers.」 製品版曲データ (シロ＠迷い家の白猫 2021-05-04)
+#デフォルトのパスと製品名
+@上海アリス幻樂団\東方虹龍洞\thbgm.dat,東方虹龍洞　～ Unconnected Marketeers.
+#原作者名
+#=ProductInfo,Creator,上海アリス幻樂団
+#製品略称
+#=ProductInfo,Prefix,th18
+#=ProductInfo,ShortName,東方虹龍洞
+#=ProductInfo,AbbreviatedShortName,虹龍洞
+#=ProductInfo,ShortestName,虹
+#頒布年月日
+#=ProductInfo,ReleaseDate,2021-05-04
+#thbgm.datのサイズ(バイト単位)
+#=ProductInfo,BgmSourceLength,430093548 
+#thbgm.datのハッシュ値(MD5)
+#=ProductInfo,BgmSourceHash,MD5Sum,cf577a047cb8073651ab5017b3ed97f0
+#thbgm.datの識別用ハッシュ値(末尾4MBのハッシュ)
+#=ProductInfo,BgmSourceIdentificationHash,MD5Sum,
+#曲データ
+#開始位置[Bytes]、イントロ部の長さ[Bytes]、ループ部の長さ[Bytes]、曲名
+#位置・長さは16進値として記述する
+00000010,000786A0,01208B80,虹の架かる幻想郷
+01281230,00423D80,00F98040,妖異達の通り雨
+0263CFF0,00062400,00FAD000,大吉キトゥン
+0364C3F0,0025E8C0,00EDB940,深緑に隠された断崖
+047865F0,00118400,011C1800,バンデットリィテクノロジー
+05A601F0,00194000,01BBE400,駒草咲くパーペチュアルスノー
+077B25F0,00114D00,01525F00,スモーキングドラゴン
+08DED1F0,0050BCA0,01E38380,廃れゆく産業遺構
+0B131210,00205800,017640FC,神代鉱石
+0CA9AB0C,000AC6A0,01CA10C0,待ちわびた逢魔が時
+0E7E826C,0009DEE0,017C6A60,星降る天魔の山
+1004CBAC,000B1040,01B09200,ルナレインボー
+11C06DEC,00458BA0,02592D80,あの賑やかな市場は今どこに　～ Immemorial Marketeers
+15C50F8C,000D5E00,01BFD600,幻想の地下大線路網
+1792438C,000F30C0,019A63E0,龍王殺しのプリンセス
+145F270C,00392000,0063EC00,嵐の後の日曜日
+14FC330C,00891600,003FC680,虹色の世界
+193BD82C,001CACC8,004A2FF8,プレイヤーズスコア

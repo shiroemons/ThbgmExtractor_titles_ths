@@ -1,0 +1,30 @@
+﻿#「弾幕アマノジャク　～ Impossible Spell Card.」 曲データ (シロ＠迷い家の白猫 2014-05-11)
+#デフォルトのパスと製品名
+@上海アリス幻樂団\弾幕アマノジャク\thbgm.dat,弾幕アマノジャク　～ Impossible Spell Card.
+#原作者名
+#=ProductInfo,Creator,上海アリス幻樂団
+#製品略称
+#=ProductInfo,Prefix,th143
+#=ProductInfo,ShortName,弾幕アマノジャク
+#=ProductInfo,AbbreviatedShortName,アマノジャク
+#頒布年月日
+#=ProductInfo,ReleaseDate,2014-05-11
+#thbgm.datのサイズ(バイト単位)
+#=ProductInfo,BgmSourceLength,203375624
+#thbgm.datのハッシュ値(MD5)
+#=ProductInfo,BgmSourceHash,MD5Sum,6e7627823eb6bb52ab71ffdfe445b40b
+#thbgm.datの識別用ハッシュ値(末尾4MBのハッシュ)
+#=ProductInfo,BgmSourceIdentificationHash,MD5Sum,
+#曲データ
+#開始位置[Bytes]、イントロ部の長さ[Bytes]、ループ部の長さ[Bytes]、曲名
+#位置・長さは16進値として記述する
+00000010,002C1F40,01139F80,反則の狼煙を上げろ
+013FBED0,00271200,012E1F80,不可能弾幕には反則を
+0294F050,0014B034,00E2194C,ミッドナイトスペルカード
+038BB9D0,00254D10,0131EF50,ロマンチック逃飛行
+04E2F630,000C2B40,020B4E28,永遠の三日天下
+06FA6F98,00065180,00EADE80,秘境のマーメイド
+07EB9F98,000E2140,01532610,リバースイデオロギー
+094CE6E8,005240E0,0130F160,幻想浄瑠璃
+0AD01928,00205AA0,00C7F380,妖怪の山　～ Mysterious Mountain
+0BB86748,001CACC8,004A2FF8,プレイヤーズスコア

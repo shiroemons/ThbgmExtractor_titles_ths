@@ -1,0 +1,29 @@
+﻿#「東方虹龍洞　～ Unconnected Marketeers.」 体験版曲データ (シロ＠迷い家の白猫 2021-03-23)
+#デフォルトのパスと製品名
+@上海アリス幻樂団\東方虹龍洞体験版\thbgm_tr.dat,東方虹龍洞　～ Unconnected Marketeers. 体験版
+#原作者名
+#=ProductInfo,Creator,上海アリス幻樂団
+#製品略称
+#=ProductInfo,Prefix,th18tr
+#=ProductInfo,ShortName,東方虹龍洞
+#=ProductInfo,AbbreviatedShortName,虹龍洞
+#=ProductInfo,ShortestName,虹
+#頒布年月日
+#=ProductInfo,ReleaseDate,2021-03-21
+#thbgm.datのサイズ(バイト単位)
+#=ProductInfo,BgmSourceLength,155561648 
+#thbgm.datのハッシュ値(MD5)
+#=ProductInfo,BgmSourceHash,MD5Sum,dc2d73c670f2213fc17df41925a89035
+#thbgm.datの識別用ハッシュ値(末尾4MBのハッシュ)
+#=ProductInfo,BgmSourceIdentificationHash,MD5Sum,
+#曲データ
+#開始位置[Bytes]、イントロ部の長さ[Bytes]、ループ部の長さ[Bytes]、曲名
+#位置・長さは16進値として記述する
+00000010,000786A0,01208B80,虹の架かる幻想郷
+01281230,00423D80,00F98040,妖異達の通り雨
+0263CFF0,00062400,00FAD000,大吉キトゥン
+0364C3F0,0025E8C0,00EDB940,深緑に隠された断崖
+047865F0,00118400,011C1800,バンデットリィテクノロジー
+05A601F0,00194000,01BBE400,駒草咲くパーペチュアルスノー
+077B25F0,00114D00,01525F00,スモーキングドラゴン
+08DED1F0,001CACC8,004A2FF8,プレイヤーズスコア

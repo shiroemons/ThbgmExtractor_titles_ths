@@ -1,0 +1,29 @@
+﻿#「秘封ナイトメアダイアリー　～ Violet Detector.」 製品版曲データ (シロ＠迷い家の白猫 2018-08-10)
+#デフォルトのパスと製品名
+@上海アリス幻樂団\秘封ナイトメアダイアリー\thbgm.dat,秘封ナイトメアダイアリー　～ Violet Detector.
+#原作者名
+#=ProductInfo,Creator,上海アリス幻樂団
+#製品略称
+#=ProductInfo,Prefix,th165
+#=ProductInfo,ShortName,秘封ナイトメアダイアリー
+#=ProductInfo,AbbreviatedShortName,ナイトメアダイアリー
+#=ProductInfo,ShortestName,秘
+#頒布年月日
+#=ProductInfo,ReleaseDate,2018-08-10
+#thbgm.datのサイズ(バイト単位)
+#=ProductInfo,BgmSourceLength,178897840
+#thbgm.datのハッシュ値(MD5)
+#=ProductInfo,BgmSourceHash,MD5Sum,b0fc07352eac9584d265131d862e22ae
+#thbgm.datの識別用ハッシュ値(末尾4MBのハッシュ)
+#=ProductInfo,BgmSourceIdentificationHash,MD5Sum,
+#曲データ
+#開始位置[Bytes]、イントロ部の長さ[Bytes]、ループ部の長さ[Bytes]、曲名
+#位置・長さは16進値として記述する
+00000010,0066DC80,00B50B80,悪夢日記
+01DA6210,000A8580,01133580,ルーシッドドリーマー
+04251E50,001EB2C0,011F1980,ルナティックドリーマー
+0562EA90,00096700,01688600,ナイトメアダイアリー
+011BE810,00081300,00B66700,バー・オールドアダム
+02F81D10,00437AC0,00E98680,燕石博物誌が連れてきた闇
+06D4D790,0040103C,019431C4,永遠の春夢
+08A91990,0011B160,01EEF8C0,秘匿されたフォーシーズンズ

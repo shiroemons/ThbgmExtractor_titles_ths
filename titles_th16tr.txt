@@ -1,0 +1,29 @@
+﻿#「東方天空璋　～ Hidden Star in Four Seasons.」 体験版曲データ (シロ＠迷い家の白猫 2017-05-07)
+#デフォルトのパスと製品名
+@上海アリス幻樂団\東方天空璋体験版\thbgm_tr.dat,東方天空璋　～ Hidden Star in Four Seasons. 体験版
+#原作者名
+#=ProductInfo,Creator,上海アリス幻樂団
+#製品略称
+#=ProductInfo,Prefix,th16tr
+#=ProductInfo,ShortName,東方天空璋
+#=ProductInfo,AbbreviatedShortName,天空璋
+#=ProductInfo,ShortestName,天
+#頒布年月日
+#=ProductInfo,ReleaseDate,2017-05-07
+#thbgm.datのサイズ(バイト単位)
+#=ProductInfo,BgmSourceLength,145393356
+#thbgm.datのハッシュ値(MD5)
+#=ProductInfo,BgmSourceHash,MD5Sum,5cf40f0ba0e4b8a114370d5f09551a10
+#thbgm.datの識別用ハッシュ値(末尾4MBのハッシュ)
+#=ProductInfo,BgmSourceIdentificationHash,MD5Sum,
+#曲データ
+#開始位置[Bytes]、イントロ部の長さ[Bytes]、ループ部の長さ[Bytes]、曲名
+#位置・長さは16進値として記述する
+00000010,0011EC00,00DB8C00,桜舞い散る天空
+00ED7810,0009AB70,01168158,希望の星は青霄に昇る
+020DA4D8,00105700,0114DA80,真夏の妖精の夢
+0332D658,00112900,012AC480,色無き風は妖怪の山に
+046EC3D8,0022E200,00F1CB00,山奥のエンカウンター
+058370D8,0008B9F0,01537488,桜色の海を泳いで
+06DF9F50,007243D4,00F1C6E8,一対の神獣
+0843AA0C,001CACC8,004A2FF8,プレイヤーズスコア

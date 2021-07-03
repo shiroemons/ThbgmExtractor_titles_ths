@@ -1,0 +1,39 @@
+#「東方紺珠伝　～ Legacy of Lunatic Kingdom.」 製品版曲データ (シロ＠迷い家の白猫 2015-08-14)
+#デフォルトのパスと製品名
+@上海アリス幻樂団\東方紺珠伝\thbgm.dat,東方紺珠伝　～ Legacy of Lunatic Kingdom.
+#原作者名
+#=ProductInfo,Creator,上海アリス幻樂団
+#製品略称
+#=ProductInfo,Prefix,th15
+#=ProductInfo,ShortName,東方紺珠伝
+#=ProductInfo,AbbreviatedShortName,紺珠伝
+#=ProductInfo,ShortestName,紺
+#頒布年月日
+#=ProductInfo,ReleaseDate,2015-08-14
+#thbgm.datのサイズ(バイト単位)
+#=ProductInfo,BgmSourceLength,490441728
+#thbgm.datのハッシュ値(MD5)
+#=ProductInfo,BgmSourceHash,MD5Sum,ab597ebbc0f34348e7b0e99c1bb6d3a1
+#thbgm.datの識別用ハッシュ値(末尾4MBのハッシュ)
+#=ProductInfo,BgmSourceIdentificationHash,MD5Sum,
+#曲データ
+#開始位置[Bytes]、イントロ部の長さ[Bytes]、ループ部の長さ[Bytes]、曲名
+#位置・長さは16進値として記述する
+00000010,00124B00,017AF050,宇宙巫女現る
+018D3B60,000C7280,011F1C00,忘れがたき、よすがの緑
+02B8C9E0,00263790,00F1CC00,兎は舞い降りた
+03D0CD70,00076100,01321840,湖は浄めの月光を映して
+050A46B0,0030A480,01182D00,九月のパンプキン
+06531830,00095100,019AC0C0,宇宙を飛ぶ不思議な巫女
+07F729F0,0040103C,019431C4,永遠の春夢
+09CB6BF0,0042B080,01923E00,凍り付いた永遠の都
+0BA05A70,00102B80,01C25540,逆転するホイールオブフォーチュン
+0D72DB30,00131D80,02200000,遥か３８万キロのボヤージュ
+0FA5F8B0,0047C400,023E3800,星条旗のピエロ
+122BF4B0,008FA300,010E6900,故郷の星が映る海
+13CA00B0,00107800,02ECC700,ピュアヒューリーズ　～ 心の在処
+16C73FB0,001F2600,021FFC00,見た事も無い悪夢の世界
+190661B0,001F0280,023CF380,パンデモニックプラネット
+1B6257B0,00076B90,00813100,神社から見える月
+1BEAF440,001B0600,00CEB500,宇宙巫女帰還する
+1CD4AF40,001CACC8,004A2FF8,プレイヤーズスコア

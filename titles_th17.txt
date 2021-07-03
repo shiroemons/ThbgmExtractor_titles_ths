@@ -1,0 +1,39 @@
+﻿#「東方鬼形獣　～ Wily Beast and Weakest Creature.」 製品版曲データ (シロ＠迷い家の白猫 2019-11-10)
+#デフォルトのパスと製品名
+@上海アリス幻樂団\東方鬼形獣\thbgm.dat,東方鬼形獣　～ Wily Beast and Weakest Creature.
+#原作者名
+#=ProductInfo,Creator,上海アリス幻樂団
+#製品略称
+#=ProductInfo,Prefix,th17
+#=ProductInfo,ShortName,東方鬼形獣
+#=ProductInfo,AbbreviatedShortName,鬼形獣
+#=ProductInfo,ShortestName,鬼
+#頒布年月日
+#=ProductInfo,ReleaseDate,2019-08-12
+#thbgm.datのサイズ(バイト単位)
+#=ProductInfo,BgmSourceLength,444963052
+#thbgm.datのハッシュ値(MD5)
+#=ProductInfo,BgmSourceHash,MD5Sum,1c8586cf502da2e310d22f3719515db6
+#thbgm.datの識別用ハッシュ値(末尾4MBのハッシュ)
+#=ProductInfo,BgmSourceIdentificationHash,MD5Sum,
+#曲データ
+#開始位置[Bytes]、イントロ部の長さ[Bytes]、ループ部の長さ[Bytes]、曲名
+#位置・長さは16進値として記述する
+00000010,00489F40,00A58F40,物言わぬ獣の霊
+00EE2E90,0028E780,013CFE00,地蔵だけが知る哀嘆
+02541410,001209E8,00D3A670,ジェリーストーン
+0339C468,0036C000,01552900,ロストリバー
+04C5AD68,00206680,0125F840,石の赤子と水中の牛
+060C0C28,00261ED0,01A3DD10,不朽の曼珠沙華
+07D60808,001A1F50,016AE720,セラフィックチキン
+095B0E78,00411600,01C9E080,アンロケイテッドヘル
+0B6604F8,00059A80,01C01540,トータスドラゴン　～ 幸運と不運
+0D2BB4B8,000DA380,0193BB80,ビーストメトロポリス
+0ECD13B8,00415E84,01377670,セラミックスの杖刀人
+1045E8AC,0062D900,00DB4080,エレクトリックヘリテージ
+1184022C,00508980,02251480,偶像に世界を委ねて　～ Idoratrize World
+13F9A02C,00455080,01A97B80,輝かしき弱肉強食の掟
+15E86C2C,00455BC0,02232F40,聖徳太子のペガサス　～ Dark Pegasus
+1850F72C,0042F900,00516600,畜生達の休息
+18E5562C,00F57300,0043F300,地下からの帰還
+1A1EBC2C,001CACC8,004A2FF8,プレイヤーズスコア

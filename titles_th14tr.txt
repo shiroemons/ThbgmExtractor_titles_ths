@@ -1,0 +1,29 @@
+#「東方輝針城　～ Double Dealing Character.」 体験版曲データ (シロ＠迷い家の白猫 2013-05-29)
+#デフォルトのパスと製品名
+@上海アリス幻樂団\東方輝針城体験版\thbgm_tr.dat,東方輝針城　～ Double Dealing Character. 体験版
+#原作者名
+#=ProductInfo,Creator,上海アリス幻樂団
+#製品略称
+#=ProductInfo,Prefix,th14tr
+#=ProductInfo,ShortName,東方輝針城
+#=ProductInfo,AbbreviatedShortName,輝針城
+#=ProductInfo,ShortestName,輝
+#頒布年月日
+#=ProductInfo,ReleaseDate,2013-05-26
+#thbgm.datのサイズ(バイト単位)
+#=ProductInfo,BgmSourceLength,140962192
+#thbgm.datのハッシュ値(MD5)
+#=ProductInfo,BgmSourceHash,MD5Sum,435ffc50d9df44453716601915970b3b
+#thbgm.datの識別用ハッシュ値(末尾4MBのハッシュ)
+#=ProductInfo,BgmSourceIdentificationHash,MD5Sum,
+#曲データ
+#開始位置[Bytes]、イントロ部の長さ[Bytes]、ループ部の長さ[Bytes]、曲名
+#位置・長さは16進値として記述する
+00000010,002BADD0,01118190,不思議なお祓い棒
+013D2F70,0015D8C0,00E35040,ミストレイク
+02365870,00065180,00EADE80,秘境のマーメイド
+03278870,00292480,00E965F0,運河を行き交う人妖
+043A12E0,0005A130,011D70B0,柳の下のデュラハン
+055D24C0,000F02F0,0176C2A0,満月の竹林
+06E2EA50,0023CF40,00F95340,孤独なウェアウルフ
+08000CD0,001CACC8,004A2FF8,プレイヤーズスコア

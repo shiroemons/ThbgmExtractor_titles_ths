@@ -1,0 +1,29 @@
+﻿#「東方紺珠伝　～ Legacy of Lunatic Kingdom.」 体験版曲データ (シロ＠迷い家の白猫 2015-05-11)
+#デフォルトのパスと製品名
+@上海アリス幻樂団\東方紺珠伝体験版\thbgm_tr.dat,東方紺珠伝　～ Legacy of Lunatic Kingdom. 体験版
+#原作者名
+#=ProductInfo,Creator,上海アリス幻樂団
+#製品略称
+#=ProductInfo,Prefix,th15tr
+#=ProductInfo,ShortName,東方紺珠伝
+#=ProductInfo,AbbreviatedShortName,紺珠伝
+#=ProductInfo,ShortestName,紺
+#頒布年月日
+#=ProductInfo,ReleaseDate,2015-05-10
+#thbgm.datのサイズ(バイト単位)
+#=ProductInfo,BgmSourceLength,171067568
+#thbgm.datのハッシュ値(MD5)
+#=ProductInfo,BgmSourceHash,MD5Sum,6abfd0259f04278a5638c9f4853bf342
+#thbgm.datの識別用ハッシュ値(末尾4MBのハッシュ)
+#=ProductInfo,BgmSourceIdentificationHash,MD5Sum,
+#曲データ
+#開始位置[Bytes]、イントロ部の長さ[Bytes]、ループ部の長さ[Bytes]、曲名
+#位置・長さは16進値として記述する
+00000010,00124B00,017AF050,宇宙巫女現る
+018D3B60,000C7280,011F1C00,忘れがたき、よすがの緑
+02B8C9E0,00263790,00F1CC00,兎は舞い降りた
+03D0CD70,00076100,01321840,湖は浄めの月光を映して
+050A46B0,0030A480,01182D00,九月のパンプキン
+06531830,00095100,019AC0C0,宇宙を飛ぶ不思議な巫女
+07F729F0,0040103C,019431C4,永遠の春夢
+09CB6BF0,001CACC8,004A2FF8,プレイヤーズスコア
