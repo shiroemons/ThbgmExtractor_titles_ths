@@ -4,6 +4,10 @@
 
 [東方シリーズ音楽抜き出し機（ThbgmExtractor）](https://smdn.jp/works/tools/ThbgmExtractor/)用の曲目ファイル集です。
 
+## ダウンロード
+
+[ZIP](https://github.com/shiroemons/ThbgmExtractor_titles_ths/archive/refs/heads/main.zip)
+
 ## 曲目ファイル
 
 - titles_th18.txt
