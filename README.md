@@ -19,7 +19,7 @@
 - titles_th17tr.txt
   - 東方鬼形獣 体験版
 - titles_th165.txt
-  - 秘封ナイトメアダイアリー 製品版
+  - 秘封ナイトメアダイアリー
 - titles_th16.txt
   - 東方天空璋 製品版
 - titles_th16tr.txt
@@ -34,6 +34,10 @@
   - 東方輝針城 製品版
 - titles_th14tr.txt
   - 東方輝針城 体験版
+- titles_th128.txt
+  - 妖精大戦争
+- titles_th125.txt
+  - ダブルスポイラー
 
 ## 使い方
 

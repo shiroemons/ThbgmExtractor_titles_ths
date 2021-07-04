@@ -1,0 +1,27 @@
+#「ダブルスポイラー　～ 東方文花帖」 製品版曲データ (シロ＠迷い家の白猫)
+#デフォルトのパスと製品名
+@上海アリス幻樂団\ダブルスポイラー\thbgm.dat,ダブルスポイラー　～ 東方文花帖
+#原作者名
+#=ProductInfo,Creator,上海アリス幻樂団
+#製品略称
+#=ProductInfo,Prefix,th125
+#=ProductInfo,ShortName,ダブルスポイラー
+#=ProductInfo,AbbreviatedShortName,ダブルスポイラー
+#=ProductInfo,ShortestName,ダ
+#頒布年月日
+#=ProductInfo,ReleaseDate,2010-03-14
+#thbgm.datのサイズ(バイト単位)
+#=ProductInfo,BgmSourceLength,125377712
+#thbgm.datのハッシュ値(MD5)
+#=ProductInfo,BgmSourceHash,MD5Sum,3049d175ce4e6a23e89fc475ecc2f48f
+#thbgm.datの識別用ハッシュ値(末尾4MBのハッシュ)
+#=ProductInfo,BgmSourceIdentificationHash,MD5Sum,
+#曲データ
+#開始位置[Bytes]、イントロ部の長さ[Bytes]、ループ部の長さ[Bytes]、曲名
+#位置・長さは16進値として記述する
+00000010,003A8400,00B18800,ニュースハウンド
+00EC0C10,002B38C0,01014840,あなたの町の怪事件
+02188D10,00265D00,00F34200,妖怪モダンコロニー
+03322C10,001BDB00,00DC2E80,ネメシスの要塞
+042A3590,00566180,01860900,無間の鐘　～ Infinite Nightmare
+0606A010,00205AA0,00C7F380,妖怪の山　～ Mysterious Mountain

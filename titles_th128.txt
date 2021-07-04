@@ -1,0 +1,31 @@
+#「妖精大戦争　～ 東方三月精」 製品版曲データ (シロ＠迷い家の白猫)
+#デフォルトのパスと製品名
+@上海アリス幻樂団\妖精大戦争\thbgm.dat,妖精大戦争　～ 東方三月精
+#原作者名
+#=ProductInfo,Creator,上海アリス幻樂団
+#製品略称
+#=ProductInfo,Prefix,th128
+#=ProductInfo,ShortName,妖精大戦争
+#=ProductInfo,AbbreviatedShortName,妖精大戦争
+#=ProductInfo,ShortestName,大
+#頒布年月日
+#=ProductInfo,ReleaseDate,2010-08-14
+#thbgm.datのサイズ(バイト単位)
+#=ProductInfo,BgmSourceLength,172312912
+#thbgm.datのハッシュ値(MD5)
+#=ProductInfo,BgmSourceHash,MD5Sum,2a0dcc8529b777f0b683b5e3dbcd2573
+#thbgm.datの識別用ハッシュ値(末尾4MBのハッシュ)
+#=ProductInfo,BgmSourceIdentificationHash,MD5Sum,
+#曲データ
+#開始位置[Bytes]、イントロ部の長さ[Bytes]、ループ部の長さ[Bytes]、曲名
+#位置・長さは16進値として記述する
+00000010,0020A520,00CD5180,春の氷精
+00EDF6B0,0028EA80,00F6D180,可愛い大戦争のリフレーン
+020DB2B0,0002A0E0,00C441C0,いたずらに命をかけて
+02D49550,00232E40,00C09880,年中夢中の好奇心
+03B85C10,001D0280,012B2380,真夜中のフェアリーダンス
+05008210,0008A180,010C2900,妖精大戦争　～ Fairy Wars
+06D1AB90,00119F00,019A3800,ルーズレイン
+087D8290,000C8300,01546700,メイガスナイト
+06154C90,001C1B00,00A04400,春の氷精 - 静
+09DE6C90,001CACC8,004A2FF8,プレイヤーズスコア
