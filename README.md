@@ -34,6 +34,10 @@
   - 東方輝針城 製品版
 - titles_th14tr.txt
   - 東方輝針城 体験版
+- titles_th13.txt
+  - 東方神霊廟 製品版
+- titles_th13tr.txt
+  - 東方神霊廟 体験版
 - titles_th128.txt
   - 妖精大戦争
 - titles_th125.txt

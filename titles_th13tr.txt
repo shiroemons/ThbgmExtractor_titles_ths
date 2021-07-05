@@ -1,0 +1,35 @@
+#「東方神霊廟　～ Ten Desires.」 体験版曲データ (シロ＠迷い家の白猫)
+#デフォルトのパスと製品名
+@上海アリス幻樂団\東方神霊廟体験版\thbgm_tr.dat,東方神霊廟　～ Ten Desires. 体験版
+#原作者名
+#=ProductInfo,Creator,上海アリス幻樂団
+#製品略称
+#=ProductInfo,Prefix,th13tr
+#=ProductInfo,ShortName,東方神霊廟
+#=ProductInfo,AbbreviatedShortName,神霊廟
+#=ProductInfo,ShortestName,神
+#頒布年月日
+#=ProductInfo,ReleaseDate,2011-03-13
+#thbgm.datのサイズ(バイト単位)
+#=ProductInfo,BgmSourceLength,173405112
+#thbgm.datのハッシュ値(MD5)
+#=ProductInfo,BgmSourceHash,MD5Sum,5042ad23d97d2aba65cfaad7ab0d7179
+#thbgm.datの識別用ハッシュ値(末尾4MBのハッシュ)
+#=ProductInfo,BgmSourceIdentificationHash,MD5Sum,
+#曲データ
+#開始位置[Bytes]、イントロ部の長さ[Bytes]、ループ部の長さ[Bytes]、曲名
+#位置・長さは16進値として記述する
+00000010,003ACD80,006A3080,欲深き霊魂
+00A4FE10,002E72A8,00F618C8,死霊の夜桜
+#=SamplingRate,22050,01C98980,00173954,007B0C64,死霊の夜桜（霊界トランス）
+025BCF38,000AED00,00D89C00,ゴーストリード
+#=SamplingRate,22050,033F5838,00057680,006C4E00,ゴーストリード（霊界トランス）
+03B11CB8,00061580,0119D0C0,妖怪寺へようこそ
+#=SamplingRate,22050,04D102F8,00030AC0,008CE860,妖怪寺へようこそ（霊界トランス）
+0560F618,00053D00,00BCC5C0,門前の妖怪小娘
+#=SamplingRate,22050,0622F8D8,00029E80,005E62E0,門前の妖怪小娘（霊界トランス）
+0683FA38,00297B20,014DA2E0,素敵な墓場で暮しましょ
+#=SamplingRate,22050,07FB1838,0014BD90,00A6D170,素敵な墓場で暮しましょ（霊界トランス）
+08B6A738,000ACD40,00C57D40,リジッドパラダイス
+#=SamplingRate,22050,0986F1B8,000566A0,0062BEA0,リジッドパラダイス（霊界トランス）
+09EF16F8,001CACC8,004A2FF8,プレイヤーズスコア
