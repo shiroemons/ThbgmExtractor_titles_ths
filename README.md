@@ -4,6 +4,8 @@
 
 [東方シリーズ音楽抜き出し機（ThbgmExtractor）](https://smdn.jp/works/tools/ThbgmExtractor/)用の曲目ファイル集です。
 
+ダブルスポイラー〜東方虹龍洞の各作品(体験版含む)
+
 ## ダウンロード
 
 [ZIP](https://github.com/shiroemons/ThbgmExtractor_titles_ths/archive/refs/heads/main.zip)
