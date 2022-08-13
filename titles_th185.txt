@@ -1,0 +1,21 @@
+﻿#「バレットフィリア達の闇市場　〜 100th Black Market.」 製品版曲データ (シロ＠迷い家の白猫 2022-08-14)
+#デフォルトのパスと製品名
+@上海アリス幻樂団\バレットフィリア達の闇市場\thbgm.dat,バレットフィリア達の闇市場　〜 100th Black Market.
+#原作者名
+#=ProductInfo,Creator,上海アリス幻樂団
+#製品略称
+#=ProductInfo,Prefix,th185
+#=ProductInfo,ShortName,バレットフィリア達の闇市場
+#=ProductInfo,AbbreviatedShortName,バレットフィリア達の闇市場
+#=ProductInfo,ShortestName,闇
+#頒布年月日
+#=ProductInfo,ReleaseDate,2022-08-14
+#thbgm.datのサイズ(バイト単位)
+#=ProductInfo,BgmSourceLength,
+#thbgm.datのハッシュ値(MD5)
+#=ProductInfo,BgmSourceHash,MD5Sum,
+#thbgm.datの識別用ハッシュ値(末尾4MBのハッシュ)
+#=ProductInfo,BgmSourceIdentificationHash,MD5Sum,
+#曲データ
+#開始位置[Bytes]、イントロ部の長さ[Bytes]、ループ部の長さ[Bytes]、曲名
+#位置・長さは16進値として記述する
