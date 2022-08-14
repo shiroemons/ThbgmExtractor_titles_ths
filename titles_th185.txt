@@ -1,6 +1,6 @@
-﻿#「バレットフィリア達の闇市場　〜 100th Black Market.」 製品版曲データ (シロ＠迷い家の白猫 2022-08-14)
+﻿#「バレットフィリア達の闇市場　～ 100th Black Market.」 製品版曲データ (シロ＠迷い家の白猫 2022-08-14)
 #デフォルトのパスと製品名
-@上海アリス幻樂団\バレットフィリア達の闇市場\thbgm.dat,バレットフィリア達の闇市場　〜 100th Black Market.
+@上海アリス幻樂団\バレットフィリア達の闇市場\thbgm.dat,バレットフィリア達の闇市場　～ 100th Black Market.
 #原作者名
 #=ProductInfo,Creator,上海アリス幻樂団
 #製品略称
@@ -11,11 +11,21 @@
 #頒布年月日
 #=ProductInfo,ReleaseDate,2022-08-14
 #thbgm.datのサイズ(バイト単位)
-#=ProductInfo,BgmSourceLength,
+#=ProductInfo,BgmSourceLength,255321904
 #thbgm.datのハッシュ値(MD5)
-#=ProductInfo,BgmSourceHash,MD5Sum,
+#=ProductInfo,BgmSourceHash,MD5Sum,db4462466e80c4ce1f55b9b44010fdd0
 #thbgm.datの識別用ハッシュ値(末尾4MBのハッシュ)
 #=ProductInfo,BgmSourceIdentificationHash,MD5Sum,
 #曲データ
 #開始位置[Bytes]、イントロ部の長さ[Bytes]、ループ部の長さ[Bytes]、曲名
 #位置・長さは16進値として記述する
+00000010,000A0B00,0140C500,コレクターの憂鬱な午後
+021A7790,00046400,01F403A0,ワクワクする見慣れた幻想郷
+014AD010,0004F500,00CAB280,妖怪フックオン
+0412DF30,00434A00,01A48E80,闇市場は場所を選ばない
+05FAB7B0,0009B200,01290800,弾幕を持て、バレットフィリア達よ
+072D71B0,000850C0,01A120A0,１００回目のブラックマーケット
+0DFA1AF0,001EB2C0,011F1980,ルナティックドリーマー
+08D6E310,000B1040,01B09200,ルナレインボー
+0A928550,00458BA0,02592D80,あの賑やかな市場は今どこに　～ Immemorial Marketeers
+0D313E70,00891600,003FC680,虹色の世界
