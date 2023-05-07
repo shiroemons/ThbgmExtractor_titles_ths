@@ -1,0 +1,27 @@
+﻿#「東方獣王園　～ Unfinished Dream of All Living Ghost.」 体験版曲データ (シロ＠迷い家の白猫 2023-05-07)
+#デフォルトのパスと製品名
+@上海アリス幻樂団\東方獣王園体験版\thbgm_tr.dat,東方獣王園　～ Unfinished Dream of All Living Ghost. 体験版
+#原作者名
+#=ProductInfo,Creator,上海アリス幻樂団
+#製品略称
+#=ProductInfo,Prefix,th19tr
+#=ProductInfo,ShortName,東方獣王園
+#=ProductInfo,AbbreviatedShortName,獣王園
+#=ProductInfo,ShortestName,獣
+#頒布年月日
+#=ProductInfo,ReleaseDate,2023-05-07
+#thbgm.datのサイズ(バイト単位)
+#=ProductInfo,BgmSourceLength,147023544 
+#thbgm.datのハッシュ値(MD5)
+#=ProductInfo,BgmSourceHash,MD5Sum,d5a92f595b26dbb586fa9f95bcfcba16
+#thbgm.datの識別用ハッシュ値(末尾4MBのハッシュ)
+#=ProductInfo,BgmSourceIdentificationHash,MD5Sum,
+#曲データ
+#開始位置[Bytes]、イントロ部の長さ[Bytes]、ループ部の長さ[Bytes]、曲名
+#位置・長さは16進値として記述する
+00000010,00032000,019123C0,獣の知性
+019443D0,0000F100,01EF05E8,世界は可愛く出来ている
+03843AB8,000F5900,014E6600,魔獣スクランブル
+071D6DB8,0009D000,0153FC00,一対の神獣
+04E1F9B8,002C6400,00E20000,春の湊に
+05F05DB8,000DF300,011F1D00,忘れがたき、よすがの緑
