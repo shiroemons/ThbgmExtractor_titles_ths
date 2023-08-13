@@ -1,0 +1,43 @@
+#「東方獣王園　～ Unfinished Dream of All Living Ghost.」 製品版曲データ (シロ＠迷い家の白猫 2023-08-13)
+#デフォルトのパスと製品名
+@上海アリス幻樂団\東方獣王園\thbgm.dat,東方獣王園　～ Unfinished Dream of All Living Ghost.
+#原作者名
+#=ProductInfo,Creator,上海アリス幻樂団
+#製品略称
+#=ProductInfo,Prefix,th19
+#=ProductInfo,ShortName,東方獣王園
+#=ProductInfo,AbbreviatedShortName,獣王園
+#=ProductInfo,ShortestName,獣
+#頒布年月日
+#=ProductInfo,ReleaseDate,2023-08-13
+#thbgm.datのサイズ(バイト単位)
+#=ProductInfo,BgmSourceLength,590113848
+#thbgm.datのハッシュ値(MD5)
+#=ProductInfo,BgmSourceHash,MD5Sum,c136bda047327e8092e9fa057f19c8f8
+#thbgm.datの識別用ハッシュ値(末尾4MBのハッシュ)
+#=ProductInfo,BgmSourceIdentificationHash,MD5Sum,
+#曲データ
+#開始位置[Bytes]、イントロ部の長さ[Bytes]、ループ部の長さ[Bytes]、曲名
+#位置・長さは16進値として記述する
+00000010,00032000,019123C0,獣の知性
+019443D0,0000F100,01EF05E8,世界は可愛く出来ている
+03843AB8,0003D520,014E7220,魔獣スクランブル
+085D4A78,00238040,018B0B40,鬼は悠久の山に
+0A0BD5F8,00235B00,01A98D00,タイニーシャングリラ
+0BD8BDF8,00043000,01BB7200,勇敢で有閑な妖獣
+0D985FF8,0003D400,016EF280,吸血怪獣チュパカブラ
+0F0B2678,00179100,01967E00,振り向かない黄泉の道
+10B93578,00075600,02397C00,逸脱者達の無礙光　～ Kingdam of Nothingness.
+12FA0778,00059680,01C911C0,信仰は儚き人間の為に
+14C8AFB8,00290380,0135A080,妖々跋扈　～ Who done it!
+06FF7E78,0009D000,0153FC00,一対の神獣
+04D681F8,00234C80,00E22000,春の湊に
+05DBEE78,00047000,011F2000,忘れがたき、よすがの緑
+162753B8,00078180,0108CF00,死体旅行　～ Be of good cheer!
+1737A438,0001F280,01C91580,待ちわびた逢魔が時
+1902AC38,00228A80,01611F80,佐渡の二ッ岩
+1A865638,0003B980,01C01680,トータスドラゴン　～ 幸運と不運
+1C4A2638,003F9E00,02233800,聖徳太子のペガサス　～ Dark Pegasus
+1EACFC38,0003C800,02A89800,強欲な獣のメメント
+21595C38,0004E520,004B6A00,獣王達の休息
+21A9AB58,00D42A00,0021C800,獣に知性はあるか
