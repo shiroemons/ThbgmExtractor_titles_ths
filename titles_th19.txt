@@ -1,0 +1,21 @@
+#「東方獣王園　～ Unfinished Dream of All Living Ghost.」 製品版曲データ (シロ＠迷い家の白猫 2023-08-13)
+#デフォルトのパスと製品名
+@上海アリス幻樂団\東方獣王園\thbgm.dat,東方獣王園　～ Unfinished Dream of All Living Ghost.
+#原作者名
+#=ProductInfo,Creator,上海アリス幻樂団
+#製品略称
+#=ProductInfo,Prefix,th19tr
+#=ProductInfo,ShortName,東方獣王園
+#=ProductInfo,AbbreviatedShortName,獣王園
+#=ProductInfo,ShortestName,獣
+#頒布年月日
+#=ProductInfo,ReleaseDate,2023-08-13
+#thbgm.datのサイズ(バイト単位)
+#=ProductInfo,BgmSourceLength,[thbgm.datのサイズ]
+#thbgm.datのハッシュ値(MD5)
+#=ProductInfo,BgmSourceHash,MD5Sum,[MD5値]
+#thbgm.datの識別用ハッシュ値(末尾4MBのハッシュ)
+#=ProductInfo,BgmSourceIdentificationHash,MD5Sum,
+#曲データ
+#開始位置[Bytes]、イントロ部の長さ[Bytes]、ループ部の長さ[Bytes]、曲名
+#位置・長さは16進値として記述する
