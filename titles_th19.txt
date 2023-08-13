@@ -4,7 +4,7 @@
 #原作者名
 #=ProductInfo,Creator,上海アリス幻樂団
 #製品略称
-#=ProductInfo,Prefix,th19tr
+#=ProductInfo,Prefix,th19
 #=ProductInfo,ShortName,東方獣王園
 #=ProductInfo,AbbreviatedShortName,獣王園
 #=ProductInfo,ShortestName,獣
