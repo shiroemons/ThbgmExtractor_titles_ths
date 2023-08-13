@@ -4,7 +4,7 @@
 
 [東方シリーズ音楽抜き出し機（ThbgmExtractor）](https://smdn.jp/works/tools/ThbgmExtractor/)用の曲目ファイル集です。
 
-ダブルスポイラー〜東方獣王園 体験版の各作品(体験版含む)
+ダブルスポイラー〜東方獣王園の各作品(体験版含む)
 
 ## ダウンロード
 
@@ -18,6 +18,7 @@
 
 作品|曲目ファイル
 --|--
+東方獣王園 製品版|titles_th19.txt
 東方獣王園 体験版|titles_th19tr.txt
 バレットフィリア達の闇市場|titles_th185.txt
 東方虹龍洞 製品版|titles_th18.txt
