@@ -1,0 +1,40 @@
+﻿#「東方錦上京　～ Fossilized Wonders.」 製品版曲データ (シロ＠迷い家の白猫 2025-08-17)
+#デフォルトのパスと製品名
+@上海アリス幻樂団\東方錦上京\thbgm.dat,東方錦上京　〜 Fossilized Wonders.
+#原作者名
+#=ProductInfo,Creator,上海アリス幻樂団
+#製品略称
+#=ProductInfo,Prefix,th20
+#=ProductInfo,ShortName,東方錦上京
+#=ProductInfo,AbbreviatedShortName,錦上京
+#=ProductInfo,ShortestName,錦
+#頒布年月日
+#=ProductInfo,ReleaseDate,2025-08-17
+#thbgm.datのサイズ(バイト単位)
+#=ProductInfo,BgmSourceLength,429790784
+#thbgm.datのハッシュ値(MD5)
+#=ProductInfo,BgmSourceHash,MD5Sum,acf9d2b26a2daf87d0506aa40d9c10bc
+#thbgm.datの識別用ハッシュ値(末尾4MBのハッシュ)
+#=ProductInfo,BgmSourceIdentificationHash,MD5Sum,
+#曲データ
+#開始位置[Bytes]、イントロ部の長さ[Bytes]、ループ部の長さ[Bytes]、曲名
+#位置・長さは16進値として記述する
+00000010,000576E0,010265E0,錦の上の巫女
+0107DCD0,0025B480,01394500,愛おしき塵の住処
+0266D650,00079B00,01026340,例え世界から忘れられても
+0370D490,000D5620,016CC3A0,セイクリッドフォレスト
+04EAEE50,002419A0,014E65A0,森にはお化けがいるよ
+065D6D90,00119E90,0177DA50,プレステ・ジョアンの黄金境
+07E6E670,0006EB40,016260C0,どうせなら命を賭けて謎を解け
+09503270,000D4F00,01BAB000,フォーカラーラビリンス
+0B183170,004C5100,018E3E00,鹿狩りのレミニセンス
+0CF2C070,002A1100,01B67F00,記憶の深海に沈む少女
+0ED35070,00099A00,018FE780,綿月のスペルカード　～ 神海戦
+106CD1F0,00058640,01026740,ピラミッドの神域
+1174BF70,0021B9C0,01EA3400,最後の一人は慣れてるから　～ Stone Goddess
+1380AD30,00097F00,01EC1700,ファンタスティックドリフト
+15764330,000587E0,01DC3160,二枚貝の上のハルシネーション
+1757FC70,00323760,004E8D20,不変の日常
+17D8C0F0,00078BC0,00BD8040,愛おしき日常
+189DCCF0,00020480,00976810,生と死のある世界へ
+19373980,001CACC8,004A2FF8,プレイヤーズスコア
