@@ -1,6 +1,6 @@
 ﻿#「東方錦上京　～ Fossilized Wonders.」 製品版曲データ (シロ＠迷い家の白猫 2025-08-17)
 #デフォルトのパスと製品名
-@上海アリス幻樂団\東方錦上京\thbgm.dat,東方錦上京　〜 Fossilized Wonders.
+@上海アリス幻樂団\東方錦上京\thbgm.dat,東方錦上京　～ Fossilized Wonders.
 #原作者名
 #=ProductInfo,Creator,上海アリス幻樂団
 #製品略称
